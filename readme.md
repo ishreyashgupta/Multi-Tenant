@@ -26,7 +26,7 @@ This is a backend system for a Multi-Tenant SaaS (Software as a Service) applica
 
 ---
 ## 📁 Folder Structure
-
+.
 |-- package.json               # Project metadata and dependencies  
 |-- .env                       # Environment configuration (not included in repo)  
 |-- README.md                  # Project documentation  
