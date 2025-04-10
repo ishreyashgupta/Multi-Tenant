@@ -94,6 +94,5 @@ A scalable and secure backend system designed to support multi-tenant architectu
 
 ## 📌 License
 
-This project is licensed for educational and learning purposes.
-
+\
 ---
